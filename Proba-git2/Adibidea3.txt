@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Textua ezberdina
+=======
+Textua borratuta
+>>>>>>> adarra1
